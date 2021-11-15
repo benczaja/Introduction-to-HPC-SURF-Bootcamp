@@ -1,4 +1,0 @@
-fact.c: In function 'main':
-fact.c:17:7: warning: implicit declaration of function 'atoi' [-Wimplicit-function-declaration]
-   n = atoi(argv[1]);
-       ^~~~
