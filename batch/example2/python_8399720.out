@@ -1,0 +1,28 @@
+OpenMP parallelism
+
+CPUS:  1
+Seconds taken to invert a symmetric 6000x6000 matrix: 189.129375
+DONE 
+CPUS:  2
+Seconds taken to invert a symmetric 6000x6000 matrix: 117.517429
+DONE 
+CPUS:  3
+Seconds taken to invert a symmetric 6000x6000 matrix: 90.385144
+DONE 
+CPUS:  4
+Seconds taken to invert a symmetric 6000x6000 matrix: 79.010894
+DONE 
+
+JOB STATISTICS
+==============
+Job ID: 8399720
+Cluster: lisa
+User/Group: benjamic/benjamic
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 16
+CPU Utilized: 00:16:25
+CPU Efficiency: 12.770f 02:08:32 core-walltime
+Job Wall-clock time: 00:08:02
+Memory Utilized: 1.84 GB
+Memory Efficiency: 2.050f 90.00 GB
